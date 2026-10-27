@@ -64,7 +64,7 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-GCCPAY provides digital payment solutions for online merchants, offering integration tools and APIs for payment processing, transaction management, and settlement. The company focuses on secure, scalable services for e‑commerce platforms and aims to simplify acquiring and payment workflows for businesses.
+GCCPAY offers a digital payment platform enabling online merchants to accept and manage payments securely and at scale. Their APIs provide tools for transaction processing, settlement, recurring billing, fraud detection, and reporting, aimed at simplifying e‑commerce payment workflows for businesses of all sizes.
 
 **Areas:** Company · Payments · E-commerce · API · Fintech
 
@@ -72,7 +72,9 @@ GCCPAY provides digital payment solutions for online merchants, offering integra
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- [Website](https://gccpay.sa/)
+- [Website](https://payriff.com/)
+- [Documentation](https://docs.payriff.com/)
+- [GitHub](https://github.com/PayRiff)
 
 ## API Evangelist rating
 
