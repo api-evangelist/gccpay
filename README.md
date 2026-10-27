@@ -64,5 +64,16 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-GCCPAY is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://gccpay.sa/
+GCCPAY provides digital payment solutions for online merchants, offering integration tools and APIs for payment processing, transaction management, and settlement. The company focuses on secure, scalable services for e‑commerce platforms and aims to simplify acquiring and payment workflows for businesses.
+
+**Areas:** Company · Payments · E-commerce · API · Fintech
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://gccpay.sa/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/gccpay/](https://apis.io/providers/gccpay/).
